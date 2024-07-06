@@ -1,0 +1,12 @@
+---
+title: "Towards Understanding Family Privacy and Security Literacy Conversations at Home: Design Implications for Privacy Literacy Interfaces"
+collection: publications
+permalink: /publication/2024-05-11-Towards Understanding Family Privacy and Security Literacy Conversations at Home: Design Implications for Privacy Literacy Interfaces-1.md
+excerpt: 'This paper is an empirical study to examine the nature of in-home conversations between parents and children regarding privacy-related topics'
+
+date: 2024-05-11
+venue: 'Proceedings of the CHI Conference on Human Factors in Computing Systems'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3613904.3641962'
+citation: 'Kenan Kamel A Alghythee, Adel Hrncic, Karthik Singh, Sumanth Kunisetty, Yaxing Yao, and Nikita Soni. 2024. Towards Understanding Family Privacy and Security Literacy Conversations at Home: Design Implications for Privacy Literacy Interfaces. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 983, 1–12. https://doi.org/10.1145/3613904.3641962'
+---
+
