@@ -1,7 +1,7 @@
 ---
 title: "Towards Understanding Family Privacy and Security Literacy Conversations at Home: Design Implications for Privacy Literacy Interfaces"
 collection: publications
-permalink: /publication/2024-05-11-Towards Understanding Family Privacy and Security Literacy Conversations at Home: Design Implications for Privacy Literacy Interfaces-1.md
+permalink: /publication/2024-05-11-Towards Understanding Family Privacy and Security Literacy Conversations at Home: Design Implications for Privacy Literacy Interfaces-1
 excerpt: 'This paper is an empirical study to examine the nature of in-home conversations between parents and children regarding privacy-related topics'
 
 date: 2024-05-11
